@@ -18,4 +18,5 @@ with OBC . The entire process is done by the OBC and each command is given to
 the controller . The ASV returns to the home whenever the tub is filled or it doesn't
 detect any waste to be collected . By this ASV , we can reduce the plastics in the
 water bodies and hence the marine animals are benefited by this which in turn
-saves the marine ecosystem . 
+saves the marine ecosystem.
+
