@@ -7,7 +7,7 @@ hundreds of marine species . Marine wildlife such as seabirds , whales , fish an
 turtles mistake plastic waste for prey ; most then die of starvation as their stomachs
 become filled with plastic . They also suffer from lacerations , infections, reduced
 ability to swim , and internal injuries . Floating plastics also help transport invasive
-marine species , thereby threatening marine biodiversity. In order to overcome the
+marine species , thereby threatening marine biodiversity. In  order to overcome the
 issues , we have designed an Autonomous Surface Vehicles ( ASV ) that detects
 objects floatable plastic wastes in water surface using a Machine Learning ( ML )
 Algorithm and collect them by using the conveyor belts . This surface vehicle will
