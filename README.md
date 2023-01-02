@@ -1,5 +1,5 @@
 # AI-ENABLED-AQUA-SCOOPER-BOAT
-Plastic pollution is a widespread problem affecting the marine environment . It
+Plastic pollution is a widespread problem affecting  the marine environment . It
 threatens ocean health , the health of marine species, food safety and quality ,
 human health , coastal tourism , and contributes to climate change . The most
 visible impacts of plastic debris are the ingestion , suffocation and entanglement of
