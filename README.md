@@ -3,7 +3,7 @@ Plastic pollution is a widespread problem affecting  the marine environment . It
 threatens ocean health , the health of marine species, food safety and quality ,
 human health , coastal tourism , and contributes to climate change . The most
 visible impacts of plastic debris are the ingestion , suffocation and entanglement of
-hundreds of marine species . Marine wildlife such as seabirds , whales , fish and
+hundreds of marine species . Marine wildlife such as seabirds  , whales , fish and
 turtles mistake plastic waste for prey ; most then die of starvation as their stomachs
 become filled with plastic . They also suffer from lacerations , infections, reduced
 ability to swim , and internal injuries . Floating plastics also help transport invasive
