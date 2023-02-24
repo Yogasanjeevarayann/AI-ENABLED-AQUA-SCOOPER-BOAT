@@ -20,7 +20,7 @@ detect any waste to be collected . By this ASV , we can reduce the plastics in t
 water bodies and hence the marine animals are benefited by this which in turn
 saves the marine ecosystem.
 <br>
-OUR PROBLEM STATEMENT:
+<bold>OUR PROBLEM STATEMENT:<bold>
 ![web-1](https://user-images.githubusercontent.com/106137360/221152241-539d622a-2acb-4119-bf4f-e819eecb8e6d.jpg)
 
 ![advertising-3](https://user-images.githubusercontent.com/106137360/221152071-e50ab459-4a29-4e0e-ae7d-464f9ee1c0e6.jpg)
