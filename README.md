@@ -19,4 +19,14 @@ the controller . The ASV returns to the home whenever the tub is filled or it do
 detect any waste to be collected . By this ASV , we can reduce the plastics in the
 water bodies and hence the marine animals are benefited by this which in turn
 saves the marine ecosystem.
+OUR PROBLEM STATEMENT:
+![web-1](https://user-images.githubusercontent.com/106137360/221152241-539d622a-2acb-4119-bf4f-e819eecb8e6d.jpg)
 
+![advertising-3](https://user-images.githubusercontent.com/106137360/221152071-e50ab459-4a29-4e0e-ae7d-464f9ee1c0e6.jpg)
+
+
+![advertising-2](https://user-images.githubusercontent.com/106137360/221152103-3f77e74e-e763-43d7-821a-0d37aeddcf8c.jpg)
+
+![advertising-4](https://user-images.githubusercontent.com/106137360/221152111-437db247-322f-4b32-ad0d-9e1efb1fbe5a.jpg)
+
+![branding-3](https://user-images.githubusercontent.com/106137360/221152162-5baa8941-9c5a-44a5-bc55-a45c0f715824.jpg)
