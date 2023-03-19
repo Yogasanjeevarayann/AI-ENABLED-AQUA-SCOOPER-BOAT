@@ -1,7 +1,7 @@
 # AI-ENABLED-AQUA-SCOOPER-BOAT
 Plastic pollution is a widespread problem affecting  the marine environment . It
 threatens ocean health , the health of marine species, food safety and quality ,
-human health , coastal tourism , and contributes to climate change . The most
+human health , coastal tourism , and contributes to climate change . The most 
 visible impacts of plastic debris are the ingestion , suffocation and entanglement of
 hundreds of marine species . Marine wildlife such as seabirds  , whales , fish and
 turtles mistake plastic waste for prey ; most then die of starvation as their stomachs
@@ -17,7 +17,7 @@ and many sensors such as LIDAR , GPS , Camera Modules are also interconnected
 with OBC . The entire process is done by the OBC and each command is given to
 the controller . The ASV returns to the home whenever the tub is filled or it doesn't
 detect any waste to be collected . By this ASV , we can reduce the plastics in the
-water bodies and hence the marine animals are benefited by this which in turn
+water bodies and hence the marine  animals are benefited by this which in turn
 saves the marine ecosystem.
 <br>
 <strong>OUR PROBLEM STATEMENT:<strong>
