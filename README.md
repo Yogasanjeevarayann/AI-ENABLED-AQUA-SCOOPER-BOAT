@@ -1,24 +1,11 @@
 # AI-ENABLED-AQUA-SCOOPER-BOAT
-Plastic pollution is a widespread problem affecting  the marine environment . It
-threatens ocean health , the health of marine species, food safety and quality ,
-human health , coastal tourism , and contributes to climate change . The most 
-visible impacts of plastic debris are the ingestion , suffocation and entanglement of
-hundreds of marine species . Marine wildlife such as seabirds  , whales , fish and
-turtles mistake plastic waste for prey ; most then die of starvation as their stomachs
-become filled with plastic . They also suffer from lacerations , infections, reduced
-ability to swim , and internal injuries . Floating plastics also help transport invasive
-marine species , thereby threatening marine biodiversity. In  order to overcome the
-issues , we have designed an Autonomous Surface Vehicles ( ASV ) that detects
-objects floatable plastic wastes in water surface using a Machine Learning ( ML )
-Algorithm and collect them by using the conveyor belts . This surface vehicle will
-first detect the objects that are already programmed and gives the command to the
-controller . The above mentioned process is done by On Board Computer ( OBC )
-and many sensors such as LIDAR , GPS , Camera Modules are also interconnected
-with OBC . The entire process is done by the OBC and each command is given to
-the controller . The ASV returns to the home whenever the tub is filled or it doesn't
-detect any waste to be collected . By this ASV , we can reduce the plastics in the
-water bodies and hence the marine  animals are benefited by this which in turn
-saves the marine ecosystem.
+Our project aims to tackle the issue of water pollution in aquatic environments by introducing an AI-enabled Aqua Scooper Boat that utilizes advanced image processing techniques. Our solution combines the power of deep learning and computer vision to detect and remove debris from water bodies, thereby restoring the natural habitat of aquatic life.
+
+The Aqua Scooper Boat is equipped with state-of-the-art image processing algorithms based on YOLOv7, a popular object detection system. The system is trained to recognize and locate various types of debris such as plastic waste, bottles, and cans, among others. Once detected, the system uses a robotic arm to collect the debris and store it in a designated container on the boat.
+
+Our Aqua Scooper Boat is designed to operate autonomously, thanks to its advanced software and hardware components. The boat's navigation system is equipped with GPS and sensors that allow it to navigate through water bodies while avoiding obstacles. Moreover, the boat's batteries can be charged using solar panels, making it an eco-friendly and sustainable solution.
+
+Our project has the potential to make a significant impact on the environment by removing harmful pollutants from water bodies, thereby preserving the natural habitat of aquatic life. With the rising concern of water pollution, we believe that our project is a step towards a cleaner and healthier future
 <br>
 <strong>OUR PROBLEM STATEMENT:<strong>
 ![web-1](https://user-images.githubusercontent.com/106137360/221152241-539d622a-2acb-4119-bf4f-e819eecb8e6d.jpg)
